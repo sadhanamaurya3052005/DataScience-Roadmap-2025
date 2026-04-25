@@ -2,7 +2,7 @@
 > ## With Resources and Projects 
 
 
-[![GitHub KushalVijay]label=Subscribe%20to%20our%20Channel%20&style=social)
+
 [![Linkedin: Kushal Vijay](https://img.shields.io/badge/-Kushal%20Vijay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kushalvijay/)](https://www.linkedin.com/in/kushalvijay/)
 
 ![_- visual selection (3)](https://github.com/user-attachments/assets/02078bae-1d18-4343-b02e-786edb484ce1) 
